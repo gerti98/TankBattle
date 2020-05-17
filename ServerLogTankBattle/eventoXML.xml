@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:24:17</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:24:22</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:24:40</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:24:55</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:25:09</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:25:18</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:25:31</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>18:25:50</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:00:56</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:02:51</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:02:54</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:02:58</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:03:03</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:03:19</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:03:23</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:03:27</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:04:08</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:04:29</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:04:48</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:06:05</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:06:24</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:06:46</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:21:25</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:25:55</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:26:04</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:26:21</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:26:21</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:26:30</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:26:45</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:26:49</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:26:58</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:27:00</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:30:51</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:32:20</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:32:32</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:32:45</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:33:24</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:33:46</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:34:00</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:34:47</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:34:53</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:34:57</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:34:58</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:34:59</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:34:59</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:35:01</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:35:01</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:35:01</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:35:02</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:35:03</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:35:09</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>PLAY</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:35:09</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:36:29</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:36:36</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.2</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:36:39</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.1</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:43:55</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazioneGUI>
+  <nomeApplicazione>TankBattle</nomeApplicazione>
+  <ipClient>127.0.0.1</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <DataFormato formato="yyyy-MM-dd">
+    <data>2020-02-05</data>
+  </DataFormato>
+  <OraFormato formato="HH:mm:ss">
+    <ora>22:43:57</ora>
+  </OraFormato>
+</EventoDiNavigazioneGUI>
+<!--###########-->
